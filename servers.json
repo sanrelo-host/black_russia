@@ -7,3 +7,12 @@
       "online": 1
     }
   ]
+[
+    {
+      "color": "FF0000",
+      "dopname": "(TEST SERVER)",
+      "maxonline": 1000,
+      "name": "SAINT 01",
+      "online": 100
+    }
+  ]
