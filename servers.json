@@ -4,13 +4,6 @@
       "dopname": "(ТЕСТ СЕРВЕР)",
       "maxonline": 1000,
       "name": "GOLD",
-      "online": 122
-    },
-       {
-       "color": "FFFF00",
-      "dopname": "(TEST SERVER)",
-      "maxonline": 1000,
-      "name": "Yellow",
-      "online": 11
-   }
+      "online": 0
+    }
   ]
