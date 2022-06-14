@@ -1,16 +1,16 @@
 [
     {
-      "color": "FF0000",
-      "dopname": "(TEST SERVER)",
+      "color": "FFD700",
+      "dopname": "(ТЕСТ СЕРВЕР)",
       "maxonline": 1000,
-      "name": "SAINT 01",
+      "name": "GOLD",
       "online": 122
     },
        {
-       "color": "FF0000",
+       "color": "Yellow",
       "dopname": "(TEST SERVER)",
       "maxonline": 1000,
-      "name": "SAINT 01",
+      "name": "Yellow",
       "online": 100
    }
   ]
